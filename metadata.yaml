@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '38733'
     url: http://www.gutenberg.org/2009/agents/38733
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37264#Yankee-Girls-in-Zulu-Land
 gutenberg_issued: '2011-08-29'
 gutenberg_type: Text
 identifiers:
