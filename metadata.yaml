@@ -1,0 +1,31 @@
+_repo: Yankee-Girls-in-Zulu-Land_37264
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Graves, George E.
+    alias: Graves, G. E.
+    gutenberg_agent_id: '38734'
+    url: http://www.gutenberg.org/2009/agents/38734
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sheldon, Louise Vescelius
+    alias: Vescelius-Sheldon, Louise
+    gutenberg_agent_id: '38733'
+    url: http://www.gutenberg.org/2009/agents/38733
+description: ''
+gutenberg_issued: '2011-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- Description and travel'
+- !lcc 'DT'
+title: Yankee Girls in Zulu Land
+url: http://www.gutenberg.org/ebooks/37264
